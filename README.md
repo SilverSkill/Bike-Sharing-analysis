@@ -50,4 +50,4 @@ The code provides an interactive experience for the user.
 2. a city input is needed
 3. with entering all when asked for a specific day or month to apply no filter
 4. with entering yes it is possible to get raw data shown ,even more if wished 
-5. if no raw data should be shown entering no will result with the question for a restart
+  * if no raw data should be shown entering no will result with the question for a restart

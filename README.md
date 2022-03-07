@@ -1,6 +1,6 @@
 ### General Info
 ***
-Code for a variety of descriptiv statistics for the following statistics :
+Code for a variety of descriptiv statistics for the following themes :
 
 1. Popular times of travel 
   * most common month
